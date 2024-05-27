@@ -10,5 +10,5 @@ Homepage:
 
 Reservation booking:
 <div align="center">
-<img src='./Demo/image1.png' alt='image'/>
+<img src='./Demo/image2.png' alt='image'/>
 </div>
