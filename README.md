@@ -4,7 +4,11 @@ Full Stack Airbnb Clone with Next.js 14 Tailwind-css, Prisma, MongoDB, NextAuth,
 
 ## Examples
 Homepage:
-![](image1.png)
+<div align="center">
+<img src='./Demo/image1.png' alt='image'/>
+</div>
 
 Reservation booking:
-![](image2.png)
+<div align="center">
+<img src='./Demo/image1.png' alt='image'/>
+</div>
